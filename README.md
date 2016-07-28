@@ -1,2 +1,2 @@
 # namaste
-Nondestructive Assay Measurement Automated System for TRIGA Elements
+Nondestructive Assay Measurement Automation System for TRIGA Elements
